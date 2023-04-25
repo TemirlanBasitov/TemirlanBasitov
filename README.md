@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TemirlanBasitov
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning intermediate of React, new features JS, some basics of backend and .net development
-- 💞️ I’m looking to collaborate on any frontend development project to develop my skills and grow.
+- 👀 I’m Java developer and interested in backend development
+- 🌱 I’m currently learning and praticing Spring Framework 
+- 💞️ I’m looking to collaborate on any backend development project to develop my skills and grow.
 - 📫 How to reach me: 
 temirlan.basitov@gmail.com
 https://pl.linkedin.com/in/temirlan-basito
