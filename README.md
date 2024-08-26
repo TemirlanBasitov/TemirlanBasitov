@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TemirlanBasitov
-- 👀 I’m Java developer and interested in backend development
-- 🌱 I’m currently learning and praticing Spring Framework 
-- 💞️ I’m looking to collaborate on any backend development project to develop my skills and grow.
+- 👀 I’m Java developer
+- 🌱 I’m currently working at software company and make contribution for open source projects on my spare time
 - 📫 How to reach me: 
 temirlan.basitov@gmail.com
 https://pl.linkedin.com/in/temirlan-basitov
