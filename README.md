@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TemirlanBasitov
-- 👀 I’m Java developer
+- 👀 I’m software developer
 - 🌱 I’m currently working at software company and make contribution for open source projects on my spare time
 - 📫 How to reach me: 
 temirlan.basitov@gmail.com
